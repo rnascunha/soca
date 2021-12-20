@@ -1,5 +1,5 @@
 cmake_minimum_required (VERSION 3.10)
-project (soca)
+project (soca) 
 
 message(STATUS "Building OS: " ${CMAKE_SYSTEM_NAME})
 
